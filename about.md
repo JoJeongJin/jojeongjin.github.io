@@ -4,4 +4,8 @@ title: Team members
 permalink: /about/
 ---
 
-MacGyver
+Michael (Junwon Park)
+Joy (Jeongjin Jo)
+Andrew (Jinyoung Han)
+
+
