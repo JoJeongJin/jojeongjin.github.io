@@ -4,8 +4,15 @@ title: Team members
 permalink: /about/
 ---
 
-Michael (Junwon Park)
-Joy (Jeongjin Jo)
-Andrew (Jinyoung Han)
 
-
+<hr/>
+![Michael picture](/assets/Michael.jpg "Michael bird")
+<br />
+Michael (Junwon Park) <br />
+![Joy picture](/assets/Joy.jpg "Joy bird")
+<br />
+Joy (Jeongjin Jo) <br />
+![Andrew picture](/assets/Andrew.jpg "Andrew bird")
+<br />
+Andrew (Jinyoung Han)<br />
+<hr/>
