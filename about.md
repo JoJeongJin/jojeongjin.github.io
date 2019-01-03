@@ -6,13 +6,13 @@ permalink: /about/
 
 
 <hr/>
-![Michael picture](/assets/Michael.jpg "Michael bird")
+![Michael picture](/assets/Michael.jpg =250px "Michael bird")
 <br />
 Michael (Junwon Park) <br />
-![Joy picture](/assets/Joy.jpg "Joy bird")
+![Joy picture](/assets/Joy.jpg =250px "Joy bird")
 <br />
 Joy (Jeongjin Jo) <br />
-![Andrew picture](/assets/Andrew.jpg "Andrew bird")
+![Andrew picture](/assets/Andrew.jpg =250px "Andrew bird")
 <br />
 Andrew (Jinyoung Han)<br />
 <hr/>
