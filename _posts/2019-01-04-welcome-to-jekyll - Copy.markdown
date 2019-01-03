@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 We are the team that is working on the project at Purdue.
 
+We will develop scarecrow system.
+
 {% highlight ruby %}
 #Team members - Joy, Michael, Andrew 
 {% endhighlight %}
