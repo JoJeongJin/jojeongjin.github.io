@@ -15,14 +15,14 @@ categories: jekyll update
 * * *
 
 
-![sensortouse](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/How_to_build_the_structure.JPG)
+![sensortouse](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/What_kind_of_sensor_to_use.JPG?raw=true)
 - - -
 
 
 > 일단 카메라를 어떤 구조로 설치하느냐에 따라서 각각 장단점이 있기 때문에 그것에 대해서 분석하면서 회의를 계속해서 진행 하였습니다.
 
 - - -
-![howtobuild](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/How_to_build_the_structure.JPG?raw=true)
+![howtobuild](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/How_to_build_the_structure.JPG?raw=true)
 
 
 
@@ -32,34 +32,34 @@ _ _ _
 
 
 
-![idea1](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/idea1.JPG?raw=true)
+![idea1](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/idea1.JPG?raw=true)
 첫 번째 아이디어는 적외선을 돔형태로 만들고 만들어진 돔형태의 적외선에 변화가 감지될 시 물체 detection을 할 수 있는 방식으로 구현 하는 것입니다.
 이 방법의 장점은 간단한 알고리즘 만으로도 detection이 가능하다는 것입니다. (변화가 생길시에 감지하면 되는 것이므로) 다만 단점으로는 적외선으로 돔 형태를 구현하는 것이 다소 어렵고 비싸다는 것이 있습니다.
 - - -
 
 
 
-![idea2](../assets/idea2.jpg)
+![idea2](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/idea2.JPG?raw=true)
 두 번째 아이디어로는 카메라를 한 장소에 고정시켜놓고, 일정 주기로 90도씩 회전 시키며 사진을 촬영할 수 있는 방식으로 구현 하는 것을 떠올렸습니다.
 이 방법의 장점은 카메라를 적게 사용하기 때문에 저렴하다는 것입니다. 단점으로는 일정시간마다 카메라를 90도씩 회전시키는 방식을 사용하기 때문에 나머지 270도의 방향을 커버하기 어렵다는 것 입니다.
 - - -
 
 
 
-![idea3](../assets/idea3.jpg)
+![idea3](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/idea3.JPG?raw=true)
 세 번째 아이디어는 한 곳에서 4방향으로 카메라를 설정하는 방법입니다. 이 방법의 장점은 한 곳에서 모든 방향을 촬영할 수 있다는 것입니다. 단점으로는 많은 카메라를 사야하기 때문에 비용이 많이 들 수 있습니다.`
 - - -
 
 
 
-![idea4](../assets/idea4.jpg)
+![idea4](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/idea4.JPG?raw=true)
 네 번째 아이디어는 사방에서 농장 가운데를 향해 촬영하는 방식입니다. 이 방법의 장점은 사각지대를 줄일 수 있다는 것입니다.
 단점으로는 카메라 관리에 많은 비용이 들 수 있습니다.
 - - -
 
 
 
-![presentation](../assets/_week1/presentation.jpg)
+![presentation](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/presentation.jpg?raw=true)
 **위와 같은 안건을 가지고 회의를 거친 다음 박준원 팀원이 ppt를 만들고 성공적으로 발표를 마쳤습니다.**
 - - -
 
@@ -69,4 +69,4 @@ _ _ _
 
 이 다음 단계로 detecting model을 구현하는 것을 계속해서 진행할 예정입니다.
 
-![projectplan](../assets/project_plan.jpg)
+![projectplan](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/project_plan.JPG?raw=true)
