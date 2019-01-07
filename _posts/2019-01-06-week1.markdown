@@ -15,7 +15,7 @@ categories: jekyll update
 * * *
 
 
-![sensortouse](../assets/What_kind_of_sensor_to_use.jpg)
+![sensortouse](https://jojeongjin.github.io/assets/What_kind_of_sensor_to_use.jpg)
 - - -
 
 
