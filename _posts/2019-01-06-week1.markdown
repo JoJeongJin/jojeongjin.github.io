@@ -15,7 +15,7 @@ categories: jekyll update
 * * *
 
 
-![sensortouse](https://raw.githubusercontent.com/JoJeongJin/jojeongjin.github.io/master/assets/What_kind_of_sensor_to_use.JPG)
+![sensortouse](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week1/How_to_build_the_structure.JPG)
 - - -
 
 
@@ -59,7 +59,7 @@ _ _ _
 
 
 
-![presentation](../assets/presentation.jpg)
+![presentation](../assets/_week1/presentation.jpg)
 **위와 같은 안건을 가지고 회의를 거친 다음 박준원 팀원이 ppt를 만들고 성공적으로 발표를 마쳤습니다.**
 - - -
 
