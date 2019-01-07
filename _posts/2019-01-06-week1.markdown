@@ -15,14 +15,14 @@ categories: jekyll update
 * * *
 
 
-![sensortouse](https://jojeongjin.github.io/assets/What_kind_of_sensor_to_use.jpg)
+![sensortouse](https://raw.githubusercontent.com/JoJeongJin/jojeongjin.github.io/master/assets/What_kind_of_sensor_to_use.JPG)
 - - -
 
 
 > 일단 카메라를 어떤 구조로 설치하느냐에 따라서 각각 장단점이 있기 때문에 그것에 대해서 분석하면서 회의를 계속해서 진행 하였습니다.
 
 - - -
-![howtobuild](../assets/How_to_build_the_structure.jpg)
+![howtobuild](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/How_to_build_the_structure.JPG?raw=true)
 
 
 
@@ -32,7 +32,7 @@ _ _ _
 
 
 
-![idea1](../assets/idea1.jpg)
+![idea1](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/idea1.JPG?raw=true)
 첫 번째 아이디어는 적외선을 돔형태로 만들고 만들어진 돔형태의 적외선에 변화가 감지될 시 물체 detection을 할 수 있는 방식으로 구현 하는 것입니다.
 이 방법의 장점은 간단한 알고리즘 만으로도 detection이 가능하다는 것입니다. (변화가 생길시에 감지하면 되는 것이므로) 다만 단점으로는 적외선으로 돔 형태를 구현하는 것이 다소 어렵고 비싸다는 것이 있습니다.
 - - -
