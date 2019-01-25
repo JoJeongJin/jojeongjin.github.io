@@ -7,6 +7,6 @@ categories: jekyll update
 
 [![Introduce Project](http://img.youtube.com/vi/SVUtFII_orQ/0.jpg)](https://youtu.be/SVUtFII_orQ) 
 <br>
+**If you click this image, you can see video in youtube.**
+<br>
 Introduce Project
-
-<iframe width="640" height="360" src="https://youtu.be/SVUtFII_orQ" frameborder="0" gesture="media" allowfullscreen=""></iframe>
