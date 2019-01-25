@@ -23,9 +23,11 @@ Data Preprocess는 다음과 같다.
 ![picture2](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_2.JPG?raw=true){: width="930"}
 - - -
 
-또한 이전 팀에서 했던 것을 박준원 팀원의 주도하에 문서로 정리 해보는 시간을 가졌다.
+<br>
+**또한 이전 팀에서 했던 것을 박준원 팀원의 주도하에 문서로 정리 해보는 시간을 가졌다.**
 
 ![picture3](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_3.JPG?raw=true){: width="930"}
 - - -
 
-이로서 다음 단계는 전처리 또는 머신러닝을 최적화 시키는 방식으로 프로젝트를 진행해 나갈 예정이다.
+<br>
+**이로서 코드 분석에 대한 것은 어느정도 끝났으므로 다음 단계는 전처리 또는 머신러닝을 최적화 시키는 방식으로 프로젝트를 진행해 나갈 예정이다.**
