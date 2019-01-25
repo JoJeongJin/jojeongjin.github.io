@@ -18,15 +18,15 @@ Data Preprocess는 다음과 같다.
 
 실제로 그림으로 보자면 다음과 같다.
 - - -
-![picture1](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_1.JPG?raw=true){: width="930"}
+![picture1](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_1.JPG?raw=true){: width="900"}
 - - -
-![picture2](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_2.JPG?raw=true){: width="930"}
+![picture2](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_2.JPG?raw=true){: width="900"}
 - - -
 
 <br>
 **또한 이전 팀에서 했던 것을 박준원 팀원의 주도하에 문서로 정리 해보는 시간을 가졌다.**
 
-![picture3](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_3.JPG?raw=true){: width="930"}
+![picture3](https://github.com/JoJeongJin/jojeongjin.github.io/blob/master/assets/_week4/1_21_3.JPG?raw=true){: width="900"}
 - - -
 
 <br>
