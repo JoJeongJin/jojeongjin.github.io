@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "To do list - week2"
+title:  "2019년 1월 2주차 진행사항"
 date:   2019-01-07 15:42:45 +0200
 categories: jekyll update
 ---
